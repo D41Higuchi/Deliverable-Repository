@@ -1,2 +1,3 @@
-# Deliverable-Repository
-成果物公開用です。
+# 成果物公開用リポジトリ
+
+
